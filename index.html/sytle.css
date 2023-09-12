@@ -1,0 +1,23 @@
+body {
+    background-color: rgba(247, 108, 224, 0.788)
+    
+}
+h1{
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 600%;
+}
+
+h2 {
+    font-size: 350%
+}
+
+.portada{
+    background-image: url(fjg.jpg);
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 5%;
+
+
+}
+
